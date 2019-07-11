@@ -3,6 +3,8 @@ package FlyweightPattern;
 
 /***
  *
+ * @see <link>https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/flyweight.html</>
+ *
  * 享元模式是一个考虑系统性能的设计模式，通过使用享元模式可以节约内存空间，提高系统的性能。
  *
  * 享元模式的核心在于享元工厂类，享元工厂类的作用在于提供一个用于存储享元对象的享元池，
